@@ -29,7 +29,7 @@ export default function Expenses() {
           </div>
           <div className='flex relative mt-[5px] px-[150px] relative'>
             <img className='h-10 w-10 absolute z-2 rounded-full ml-[85px] bg-cover bg-no-repeat bg center border-white border-2' 
-            src="src/assets/img/G3.svg"alt="G3.svg"/>
+            src="src/assets/img/G3.svg"/>
             <img className='h-10 w-10 z-1 absolute  rounded-full ml-[55px] bg-cover bg-no-repeat bg center border-white border-2' 
             src="src/assets/img/G2.svg"/>
             <img className='h-10 w-10 z-0 rounded-full ml-[25px] bg-cover bg-no-repeat bg center border-white border-2' 
